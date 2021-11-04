@@ -8,3 +8,9 @@
 -  Stacking together different arrays
 -  Copies and Views
 
+## Matplotlin
+- Plotting with categorical variables
+- Working with multiple figures and axes
+- Working with text
+- Annotating text
+- Logarithmic and other nonlinear axes
