@@ -8,7 +8,7 @@
 -  Stacking together different arrays
 -  Copies and Views
 
-## Matplotlin
+## Matplotlib
 - Plotting with categorical variables
 - Working with multiple figures and axes
 - Working with text
